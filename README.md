@@ -33,7 +33,7 @@ NetBox is built against both Python 2.7 and 3.5. Python 3.5 or higher is strongl
 
 # Installation
 
-Please see [the documentation](http://netbox.readthedocs.io/en/stable/) for
+Please see the [documentation](http://netbox.readthedocs.io/en/stable/) for
 instructions on installing NetBox. To upgrade NetBox, please download the [latest release](https://github.com/digitalocean/netbox/releases)
 and run `upgrade.sh`.
 
@@ -42,6 +42,8 @@ and run `upgrade.sh`.
 * [Docker container](https://github.com/ninech/netbox-docker) (via [@cimnine](https://github.com/cimnine))
 * [Vagrant deployment](https://github.com/ryanmerolle/netbox-vagrant) (via [@ryanmerolle](https://github.com/ryanmerolle))
 * [Ansible deployment](https://github.com/lae/ansible-role-netbox) (via [@lae](https://github.com/lae))
+
+# Related projects
 
 ## Supported SDK
 
