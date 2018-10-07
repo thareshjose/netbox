@@ -33,7 +33,7 @@ NetBox is built against both Python 2.7 and 3.5. Python 3.5 or higher is strongl
 
 # Installation
 
-Please see the [the documentation](http://netbox.readthedocs.io/en/stable/) for
+Please see the [documentation](http://netbox.readthedocs.io/en/stable/) for
 instructions on installing NetBox. To upgrade NetBox, please download the [latest release](https://github.com/digitalocean/netbox/releases)
 and run `upgrade.sh`.
 
